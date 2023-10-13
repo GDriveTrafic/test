@@ -1,11 +1,41 @@
 {
-  "Data": [
-    {
-      
-      "suspended": false,
-      "newOne": "https://play.google.com/store/apps/details?id=www.google.com"
-      
-        
-    }
-  ]
-}
+	"ADS": {
+
+		"newAppStatus" : "off",
+		"new_package_name" : "",
+
+		"rewarde_type": "applovin",
+		"native_type": "applovin",
+		"inter_type": "applovin",
+		"banner_type": "applovin",
+
+	        "API_URL": "https://cinemart.uk/api/",
+          
+
+		"unity_id": "12984",
+
+ 
+		"ironsource_id": "123654",
+
+	 
+
+		"banner_applovin": "06f1d7197c0a4d5b",
+		"native_applovin": "c750208da1da9a33",
+		"interstitial_applovin": "14b068ef13f1ef0e",
+		"rewarde_applovin": "e686b283ed7d9c1f",
+
+		"interstitial_admob": "x",
+		"banner_admob": "x",
+		"native_admob": "x",
+		"rewarde_admob": "x",
+
+		 
+		
+		"facebook_interstitial": "x",
+		"facebook_native": "x",
+		"facebook_banner": "x",
+		"facebook_rewarde": "x"
+
+		 
+	}  
+   }
