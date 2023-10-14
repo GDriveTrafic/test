@@ -1,8 +1,8 @@
 {
   "admob": {
-   "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "banner_id": "ca-app-pub-3940256099942544/63009781",
     "inter_id": "ca-app-pub-3940256099942544/1033173712",
-    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "native_id": "ca-app-pub-3940256099942544/22476961",
     "app_id": "ca-app-pub-3940256099942544/2247696110"
   },
   "facebook": {
@@ -30,16 +30,16 @@
     "app_id": "ca-app-pub-3940256099942544/2247696110"
   },
   "Enabled_Networks": [
-    "Applovin"
+    "Facebook"
   ],
   "Inter_Networks": [
-    "Applovin"
+    "Facebook"
   ],
   "Banner_Networks": [
-   "Applovin"
+   "Facebook"
   ],
   "Native_Networks": [
-    "Applovin"
+    "Facebook"
   ],
   "inter_counter": 1
 }
