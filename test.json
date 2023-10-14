@@ -30,16 +30,16 @@
     "app_id": "ca-app-pub-3940256099942544/2247696110"
   },
   "Enabled_Networks": [
-    "Facebook"
+    "Admob"
   ],
   "Inter_Networks": [
-    "Facebook"
+    "Admob"
   ],
   "Banner_Networks": [
-   "Facebook"
+   "Admob"
   ],
   "Native_Networks": [
-    "Facebook"
+    "Admob"
   ],
   "inter_counter": 1
 }
