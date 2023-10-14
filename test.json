@@ -1,41 +1,45 @@
 {
-	"ADS": {
-
-		"newAppStatus" : "off",
-		"new_package_name" : "",
-
-		"rewarde_type": "applovin",
-		"native_type": "applovin",
-		"inter_type": "applovin",
-		"banner_type": "applovin",
-
-	        "API_URL": "https://cinemart.uk/api/",
-          
-
-		"unity_id": "12984",
-
- 
-		"ironsource_id": "123654",
-
-	 
-
-		"banner_applovin": "06f1d7197c0a4d5b",
-		"native_applovin": "c750208da1da9a33",
-		"interstitial_applovin": "14b068ef13f1ef0e",
-		"rewarde_applovin": "e686b283ed7d9c1f",
-
-		"interstitial_admob": "x",
-		"banner_admob": "x",
-		"native_admob": "x",
-		"rewarde_admob": "x",
-
-		 
-		
-		"facebook_interstitial": "x",
-		"facebook_native": "x",
-		"facebook_banner": "x",
-		"facebook_rewarde": "x"
-
-		 
-	}  
-   }
+  "admob": {
+    "banner_id": "ca-app-pub-3940256099942544/63009781",
+    "inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/22476961",
+    "app_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "facebook": {
+    "banner_id": "947347886567873_948316526471009",
+    "inter_id": "947347886567873_947362469899748",
+    "native_id": "947347886567873_948316346471027",
+    "app_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "yandex": {
+    "banner_id": "R-M-1698866-1",
+    "inter_id": "R-M-1698866-2",
+    "native_id": "R-M-1698866-3",
+    "app_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "applovin": {
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "app_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "unity": {
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "app_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "Enabled_Networks": [
+    "Facebook"
+  ],
+  "Inter_Networks": [
+    "Facebook"
+  ],
+  "Banner_Networks": [
+   "Facebook"
+  ],
+  "Native_Networks": [
+    "Facebook"
+  ],
+  "inter_counter": 1
+}
