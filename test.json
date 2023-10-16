@@ -25,7 +25,7 @@
          "ca-app-pub-3940256099942544/1033173712"
       ],
       "facebookInterstitial":"1420412115190813_1420414888523869",
-      "Verification_Activity":true,
+      "Verification_Activity":"true",
       "InterstitialAdProvider":"admob",
       "Get-Verification-Code-Link":"https://nelariashop.com/",
       "InterstitialSplashAdProvider":"true"
