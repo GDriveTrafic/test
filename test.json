@@ -19,7 +19,6 @@
       "BannerAdProvider":"admob",
       "NativeAdProvider":"admob",
       "Get-Started-Link":"https://marquevoiture.com/",
-      "NativeAdProvider":"admob",
       "admobAppIDForGDPR":"",
       "AdmobInterstitials":[
          "ca-app-pub-3940256099942544/1033173712",
