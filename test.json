@@ -17,6 +17,7 @@
       "facebookNative":"1420412115190813_1420414995190525",
       "maxInterstitial":"------------",
       "BannerAdProvider":"admob",
+      "NativeAdProvider":"admob",
       "Get-Started-Link":"https://marquevoiture.com/",
       "NativeAdProvider":"admob",
       "admobAppIDForGDPR":"",
