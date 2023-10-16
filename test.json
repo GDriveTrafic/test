@@ -10,7 +10,7 @@
       ],
       "AdmobNatives":[
          "ca-app-pub-3940256099942544/2247696110",
-         "ca-app-pub-3940256099942544/1044960115"
+         "ca-app-pub-3940256099942544/2247696110"
       ],
       "ShowAdsStatus":true,
       "facebookBanner":"1420412115190813_1420415121857179",
@@ -22,7 +22,7 @@
       "admobAppIDForGDPR":"",
       "AdmobInterstitials":[
          "ca-app-pub-3940256099942544/1033173712",
-         "ca-app-pub-3940256099942544/8691691433"
+         "ca-app-pub-3940256099942544/1033173712"
       ],
       "facebookInterstitial":"1420412115190813_1420414888523869",
       "Verification_Activity":true,
