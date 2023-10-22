@@ -1,67 +1,11 @@
 {
-   "Ads":{
-      "MaxClick":6,
-      "maxBanner":"------------",
-      "maxNative":"------------",
-      "maxReward":"------------",
-      "AdmobBanners":[
-         "ca-app-pub-3940256099942544/6300978111",
-         "ca-app-pub-3940256099942544/6300978111"
-      ],
-      "AdmobNatives":[
-         "ca-app-pub-3940256099942544/2247696110",
-         "ca-app-pub-3940256099942544/2247696110"
-      ],
-      "ShowAdsStatus":true,
-      "facebookBanner":"1420412115190813_1420415121857179",
-      "facebookNative":"1420412115190813_1420414995190525",
-      "maxInterstitial":"------------",
-      "BannerAdProvider":"admob",
-      "NativeAdProvider":"admob",
-      "Get-Started-Link":"https://marquevoiture.com/",
-      "admobAppIDForGDPR":"",
-      "AdmobInterstitials":[
-         "ca-app-pub-3940256099942544/1033173712",
-         "ca-app-pub-3940256099942544/1033173712"
-      ],
-      "facebookInterstitial":"1420412115190813_1420414888523869",
-      "Verification_Activity":"true",
-      "InterstitialAdProvider":"admob",
-      "Get-Verification-Code-Link":"https://nelariashop.com/",
-      "InterstitialSplashAdProvider":"true"
-   },
-   "controleData":{
-      "list_content":[
-         {
-       "image": "https://apkcima.com/uploads/2023/3/inat-box-apk-thumbnail.jpg",
-  "title": "BoxTV - A Haven for Movie Enthusiasts",
-  "paragraph": "BoxTV is a mobile application that creates a haven for movie enthusiasts and TV show aficionados. Available on Android, this app offers a vast collection of full-length movies, trailers, and TV shows across various languages including Hindi, English, Tamil, and Telugu. Users can not only watch but also download content to enjoy it offline, making it a reliable companion for entertainment on-the-go. With a user-friendly interface, it caters to a diverse audience and provides a rich reservoir of content catering to different tastes and preferences. The app is free to download and has a rating of 3.5 based on 61 votes, showcasing a decent level of user satisfaction. The mature content rating ensures a curated collection of content suitable for audiences aged 17 and above. Developed by Times Internet Limited, BoxTV continues to be a preferred choice for those looking to delve into a world of cinematic experiences and television entertainment at their fingertips."
-},
-{
-  "image": "https://lh3.googleusercontent.com/S2ggAl2rH7FcjnjGTc3Ct3d2dwOpGb9Q-HKTj3hG6tLhuv5zKrLWiE5wkHM8SKB8z8eeo64ZvVRcSWmNx1mPaVW0nrBZGatv8iy8",
-  "title": "Features of BoxTV",
-  "paragraph": "BoxTV offers a plethora of features making it a comprehensive platform for video content. Its extensive library encompasses a range of genres, providing something for everyone. The downloading feature enables users to save their favorite content and watch it later, even without internet connectivity. Furthermore, its compatibility with Android devices makes it a convenient choice for a wide user base. With a straightforward and intuitive interface, navigating through the app is a breeze, and finding desired content is hassle-free. BoxTV thus emerges as a robust platform for those seeking a blend of classic and contemporary entertainment."
-},
-{
-  "image": "https://apk-store.org/wp-content/uploads/2023/05/inat-Box-2-550x355.jpg",
-  "title": "User Testimonials",
-  "paragraph": "“BoxTV has redefined how I access my favorite movies and shows. It's more than just an app; it's a gateway to a vast world of entertainment.” — Alex on Google Play Store. BoxTV boasts a growing community of users who cherish the ease of access to a plethora of content right at their fingertips."
-},
-{
-  "image": "https://store.donanimhaber.com/d8/99/0b/d8990b8e08c30c1b532295e41849135d.png",
-  "title": "Discover More with BoxTV",
-  "paragraph": "While BoxTV offers a rich experience for free, exploring the app unveils a myriad of options to delve deeper into the entertainment realm. Its continuously updating library ensures users have access to the latest releases and timeless classics alike. Download BoxTV today and embark on an entertainment journey like no other."
-},
-{
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOsCb_WwU0g8KRSAme-d9GmTgX6Spbl5_8w&usqp=CAU",
-  "title": "Dive into BoxTV Today",
-  "paragraph": "Experience a new wave of entertainment with BoxTV. The app's vast library and user-friendly interface make it a go-to choice for movie lovers and TV show enthusiasts alike. Download BoxTV today and start your journey into a world filled with cinematic wonders and television treasures."
-},
+  "Data": [
     {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOsCb_WwU0g8KRSAme-d9GmTgX6Spbl5_8w&usqp=CAU",
-      "title": "Box tv indir",
-      "paragraph": "Get started with Box tv indir now"
+      
+      "suspended": false,
+      "newOne": "https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid&hl=en&gl=US"
+      
+        
     }
-      ]
-   }
+  ]
 }
