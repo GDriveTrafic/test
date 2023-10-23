@@ -47,26 +47,6 @@
             "maintenance_title": "The app is under maintenance, please come back later!",
             "maintenance_ico": "https://apps.unkie.net/img/maintenance.png"
         }
-    ],
-    
-    "custom" : [
-        {
-            "name" : "Instale e abra o Shopee",
-            "title" : "Shopping App",
-            "description" : "Download: Pikashow Movies  for Movies and TV Shows",
-            "ico2" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310",
-            "ico" : "https://affise-media-service-prod.s3.eu-central-1.amazonaws.com/affise-media-service-prod/offers/959/18116/3024971614.200x200.png",
-            "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647"
-        }
-    ],
-    
-    "friends" : [
-        {
-            "name" : "Instale e abra o Shopee",
-            "ico" : "https://affise-media-service-prod.s3.eu-central-1.amazonaws.com/affise-media-service-prod/offers/959/18116/3024971614.200x200.png",
-            "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647",
-            "cat" : "Shopping App",
-            "video" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310"
-        }
     ]
-}
+    }
+
