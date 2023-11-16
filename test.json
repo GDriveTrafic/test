@@ -1,72 +1,150 @@
 {
-    "config" : [
-        {
-            "tmdb_keys" : "345246bad6792619d62d261f66c1385d,98892a77b0cc1356d5872cf3cbbc5dd8",
-            
-            "int_interval" : 1,
-            "activate_ads" : "true",
-            "custom_banner" : "false",
-            "activate_rating" : "true",
-            "one_signal" : "1a9130d2-ad74-4678-a2dc-45a6e2a8498a",
-            "network" : "admob",
-
-            "unity_game_id" : "5253909",
-            "unity_int" : "Interstitial_Android",
-            "unity_ban" : "Banner_Android",
-            
-            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
-            "admob_rewarded" : "ca-app-pub-3940256099942544/5224354917",
-
-            "yandex_ban" : "R-M-2348961-1",
-            "yandex_native" : "R-M-2348961-2",
-            "yandex_int" : "R-M-2348961-3",
-            "yandex_rewarded" : "R-M-2348961-4",
-
-            "iron_key": "199fd39d5",
-            "iron_ban" : "DefaultBanner",
-            "iron_int" : "DefaultInterstitial",
-
-            "max_ban" : "a3a271ba3ced13fa",
-            "max_native" : "33de46e5ce56231d",
-            "max_int" : "451af0df11b166a5",
-            "max_reward" : "f9c057eaeb745887",
-
-            "fan_ban": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "fan_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "fan_int": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "fan_rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            
-            "activate_update_app": "false",
-            "update_title": "A new update is available, please update the app now!",
-            "update_link": "https://play.google.com/store/apps/details?id=com.frogmind.badland",
-            "update_ico": "https://play-lh.googleusercontent.com/M6ApeE_fvuWhwZ1HzAEoD0IRfqDST7IfmpqvcJFiU7rqRoPX88Pehah9lprTG3j8IQ",
-            
-            "activate_maintenance_app": "false",
-            "maintenance_title": "The app is under maintenance, please come back later!",
-            "maintenance_ico": "https://apps.unkie.net/img/maintenance.png"
-        }
-   ],
-    
-    "custom" : [
-        {
-            "name" : " ",
-            "title" : " ",
-            "description" : " ",
-            "ico2" : " ",
-            "ico" : " ",
-            "link" : " "
-        }
-    ],
-    
-    "friends" : [
-        {
-            "name" : " ",
-            "ico" : " ",
-            "link" : " ",
-            "cat" : " ",
-            "video" : " "
-        }
-    ]
+  "fb_ads_id": {
+    "fb_banner": "714879617028320_714880587028223",
+    "fb_interstial": "714879617028320_714880660361549",
+    "fb_native": "714879617028320_714880693694879",
+    "fb_nativebanner": "714879617028320_714880823694866",
+    "fb_rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fb_banner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fb_interstial1": "1545889932545391_1555002124967505",
+    "fb_native1": "IMG_16_9_APP_INSTAIMGLL#YOUR_PLACEMENT_ID",
+    "fb_nativebanner1": "714879617028320_717217783461170",
+    "fb_rewarded1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "google_admobe_id": {
+    "google_app_open": "/6499/example/app-open",
+    "google_banner": "/6499/example/banner",
+    "google_interstial": "/6499/example/interstitial",
+    "google_native": "/6499/example/native",
+    "google_reward": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "google_adx_id": {
+    "google_app_open": "ca-app-pub-3940256099942544/3419835294",
+    "google_banner": "ca-app-pub-3940256099942544/6300978111",
+    "google_interstial": "ca-app-pub-3940256099942544/1033173712",
+    "google_native": "ca-app-pub-3940256099942544/2247696110",
+    "google_reward": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "ads_control": {
+    "FB": 1,
+    "GOOGLEADMOBE": 0,
+    "GOOGLEADX": 0
+  },
+  "app_update": {
+    "vcode": "1.0",
+    "trailer": 1,
+    "multi": 0
+  },
+  "app_updatenew": {
+    "link": "",
+    "status": 0
+  },
+  "page_1": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "facebook",
+    "reward_priority": "facebook"
+  },
+  "page_2": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_3": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_4": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "facebook",
+    "reward_priority": "facebook"
+  },
+  "page_5": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_6": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_7": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "facebook",
+    "reward_priority": "facebook"
+  },
+  "page_8": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_9": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_10": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "facebook",
+    "reward_priority": "facebook"
+  },
+  "page_11": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_12": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_13": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "facebook",
+    "reward_priority": "facebook"
+  },
+  "page_14": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_15": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "facebook",
+    "reward_priority": "facebook"
+  },
+  "page_16": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_17": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "null",
+    "reward_priority": "facebook"
+  },
+  "page_18": {
+    "native_priority": "facebook",
+    "banner_priority": "facebook",
+    "inter_priority": "facebook",
+    "reward_priority": "facebook"
+  }
 }
