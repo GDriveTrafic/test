@@ -27,8 +27,8 @@
   },
   "ads_control": {
     "FB": 0,
-    "GOOGLEADMOBE": 0,
-    "GOOGLEADX": 1
+    "GOOGLEADMOBE": 1,
+    "GOOGLEADX": 0
   },
   "app_update": {
     "vcode": "1.0",
