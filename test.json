@@ -40,55 +40,55 @@
     "status": 0
   },
   "page_1": {
-    "native_priority": "facebook",
+    "native_priority": "admob",
     "banner_priority": "facebook",
     "inter_priority": "facebook",
     "reward_priority": "facebook"
   },
   "page_2": {
-    "native_priority": "facebook",
+    "native_priority": "admob",
     "banner_priority": "facebook",
     "inter_priority": "null",
     "reward_priority": "facebook"
   },
   "page_3": {
-    "native_priority": "facebook",
+    "native_priority": "admob",
     "banner_priority": "facebook",
     "inter_priority": "null",
     "reward_priority": "facebook"
   },
   "page_4": {
-    "native_priority": "facebook",
+    "native_priority": "admob",
     "banner_priority": "facebook",
     "inter_priority": "facebook",
     "reward_priority": "facebook"
   },
   "page_5": {
-    "native_priority": "facebook",
+    "native_priority": "admob",
     "banner_priority": "facebook",
     "inter_priority": "null",
     "reward_priority": "facebook"
   },
   "page_6": {
-    "native_priority": "facebook",
+    "native_priority": "admob",
     "banner_priority": "facebook",
     "inter_priority": "null",
     "reward_priority": "facebook"
   },
   "page_7": {
-    "native_priority": "facebook",
+    "native_priority": "admob",
     "banner_priority": "facebook",
     "inter_priority": "facebook",
     "reward_priority": "facebook"
   },
   "page_8": {
-    "native_priority": "facebook",
+    "native_priority": "admob",
     "banner_priority": "facebook",
     "inter_priority": "null",
     "reward_priority": "facebook"
   },
   "page_9": {
-    "native_priority": "facebook",
+    "native_priority": "admob",
     "banner_priority": "facebook",
     "inter_priority": "null",
     "reward_priority": "facebook"
