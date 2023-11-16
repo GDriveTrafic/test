@@ -26,9 +26,9 @@
     "google_reward": "ca-app-pub-3940256099942544/5224354917"
   },
   "ads_control": {
-    "FB": 1,
+    "FB": 0,
     "GOOGLEADMOBE": 0,
-    "GOOGLEADX": 0
+    "GOOGLEADX": 1
   },
   "app_update": {
     "vcode": "1.0",
